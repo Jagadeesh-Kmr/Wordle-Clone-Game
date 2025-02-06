@@ -42,13 +42,7 @@ This will run the project on `http://localhost:3000/`.
 - 🏁 **Animations** for smooth letter transitions
 - 🟢 **Styled Feedback** for better UI/UX
 - 🎨 **Improved Styling** with CSS for a modern look
-
-## 📌 Deployment
-To deploy this project on GitHub Pages or Vercel:
-```sh
-npm run build
-```
-Then, follow your hosting provider's instructions for deployment.
+  
 
 ## 📜 License
 This project is open-source and available under the MIT License.
