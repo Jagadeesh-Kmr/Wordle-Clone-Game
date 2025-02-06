@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jagadeesh-Kmr/Wordle-Clone-Game/static/css/main.9412a96a.css",
+    "main.js": "/Jagadeesh-Kmr/Wordle-Clone-Game/static/js/main.ea8babbc.js",
+    "static/js/488.5ad77e8b.chunk.js": "/Jagadeesh-Kmr/Wordle-Clone-Game/static/js/488.5ad77e8b.chunk.js",
+    "index.html": "/Jagadeesh-Kmr/Wordle-Clone-Game/index.html",
+    "main.9412a96a.css.map": "/Jagadeesh-Kmr/Wordle-Clone-Game/static/css/main.9412a96a.css.map",
+    "main.ea8babbc.js.map": "/Jagadeesh-Kmr/Wordle-Clone-Game/static/js/main.ea8babbc.js.map",
+    "488.5ad77e8b.chunk.js.map": "/Jagadeesh-Kmr/Wordle-Clone-Game/static/js/488.5ad77e8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9412a96a.css",
+    "static/js/main.ea8babbc.js"
+  ]
+}
